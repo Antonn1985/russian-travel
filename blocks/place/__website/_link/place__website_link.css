@@ -1,4 +1,4 @@
-.place__website__link {
+.place__website_link {
     font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .place__website__link {
+    .place__website_link {
         margin-left: 16px;
     }
 }
