@@ -1,4 +1,4 @@
-.place__item_flex {
+.place__links {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
