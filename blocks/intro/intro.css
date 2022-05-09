@@ -2,7 +2,6 @@
     max-width: 984px;
     display: flex;
     flex-direction: column;
-    margin: 92px auto 92px;
 }
 
 @media screen and (max-width: 1279px) {
@@ -14,13 +13,11 @@
 @media screen and (max-width: 1023px) {
     .intro {
         max-width: 720px;
-        margin: 88px auto 88px; 
     }
 }
 
 @media screen and (max-width: 767px) {
     .intro {
-        max-width: 288px;
-        margin: 64px auto 64px; 
+        max-width: 288px; 
     }
 }
