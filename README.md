@@ -8,5 +8,5 @@ https://antonn1985.github.io/russian-travel/
 
 Автор: Кошелев Антон.
 
-жопа
+
 
