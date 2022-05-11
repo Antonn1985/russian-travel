@@ -1,0 +1,11 @@
+.video__content-title {
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 78px;
+    text-align: center;
+    padding: 0;
+    margin: auto;
+    max-width: 800px;
+}
