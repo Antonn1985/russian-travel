@@ -1,21 +1,21 @@
-.video {
+.comments {
     max-width: 1184px;
 }
 
 @media screen and (max-width: 1279px) {
-    .video {
+    .comments {
         max-width: 928px;
     }
 }
 
 @media screen and (max-width: 1023px) {
-    .video {
-        max-width: 720px;
+    .comments {
+        max-width: 660px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .video {
+    .comments {
         max-width: 288px;
     }
 }

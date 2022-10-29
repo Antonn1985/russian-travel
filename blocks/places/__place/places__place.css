@@ -1,0 +1,20 @@
+.places__place {
+    margin-bottom: 80px;
+}
+
+
+@media screen and (max-width: 1023px) {
+    .places__place {
+        margin-bottom: 73px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .places__place {
+        margin-bottom: 50px;
+    }
+}
+
+.places__place:last-of-type {
+    margin-bottom: 0;
+}
